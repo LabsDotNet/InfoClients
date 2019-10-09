@@ -1,0 +1,16 @@
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.csproj.CoreCompileInputs.cache
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.AssemblyInfoInputs.cache
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.AssemblyInfo.cs
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\bin\Debug\netcoreapp2.2\InfoClients.Api.deps.json
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\bin\Debug\netcoreapp2.2\InfoClients.Api.runtimeconfig.json
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\bin\Debug\netcoreapp2.2\InfoClients.Api.runtimeconfig.dev.json
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\bin\Debug\netcoreapp2.2\InfoClients.Api.dll
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\bin\Debug\netcoreapp2.2\InfoClients.Api.pdb
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.csprojAssemblyReference.cache
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.RazorAssemblyInfo.cache
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.RazorAssemblyInfo.cs
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.RazorTargetAssemblyInfo.cache
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.dll
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.pdb
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\bin\Debug\netcoreapp2.2\InfoClients.Api.xml
+H:\Documentos\Hugo\React Exercises\InfoClients\back\InfoClients\InfoClients.Api\obj\Debug\netcoreapp2.2\InfoClients.Api.xml

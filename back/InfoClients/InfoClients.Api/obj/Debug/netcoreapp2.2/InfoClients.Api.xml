@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InfoClients.Api</name>
+    </assembly>
+    <members>
+        <member name="M:InfoClients.Api.Controllers.LocationsController.GetCountries">
+            <summary>
+            Returns all countries
+            </summary>
+            <returns>List of countries</returns>
+        </member>
+        <member name="M:InfoClients.Api.Controllers.LocationsController.GetStatesByCountry(System.Int32)">
+            <summary>
+            Returns all states by country
+            </summary>
+            <returns>List of states</returns>
+        </member>
+        <member name="M:InfoClients.Api.Controllers.LocationsController.GetCitiesByState(System.Int32)">
+            <summary>
+            Returns all cities by state
+            </summary>
+            <returns>List of cities</returns>
+        </member>
+    </members>
+</doc>
